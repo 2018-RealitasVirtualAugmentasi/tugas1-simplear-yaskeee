@@ -1,0 +1,1941 @@
+fileFormatVersion: 2
+guid: 5944aac73c27f2945a13b373103785f8
+timeCreated: 1536146692
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: +LegD_L
+    100002: +LegD_L_end
+    100004: +LegD_R
+    100006: +LegD_R_end
+    100008: _dummy_+LegD_L
+    100010: _dummy_+LegD_L_end
+    100012: _dummy_+LegD_R
+    100014: _dummy_+LegD_R_end
+    100016: _dummy_AnkleD_L
+    100018: _dummy_AnkleD_L_end
+    100020: _dummy_AnkleD_R
+    100022: _dummy_AnkleD_R_end
+    100024: _dummy_ArmTwist1_L
+    100026: _dummy_ArmTwist1_L_end
+    100028: _dummy_ArmTwist1_R
+    100030: _dummy_ArmTwist1_R_end
+    100032: _dummy_ArmTwist2_L
+    100034: _dummy_ArmTwist2_L_end
+    100036: _dummy_ArmTwist2_R
+    100038: _dummy_ArmTwist2_R_end
+    100040: _dummy_ArmTwist3_L
+    100042: _dummy_ArmTwist3_L_end
+    100044: _dummy_ArmTwist3_R
+    100046: _dummy_ArmTwist3_R_end
+    100048: _dummy_Eye_L
+    100050: _dummy_Eye_L_end
+    100052: _dummy_Eye_R
+    100054: _dummy_Eye_R_end
+    100056: _dummy_HandTwist1_L
+    100058: _dummy_HandTwist1_L_end
+    100060: _dummy_HandTwist1_R
+    100062: _dummy_HandTwist1_R_end
+    100064: _dummy_HandTwist2_L
+    100066: _dummy_HandTwist2_L_end
+    100068: _dummy_HandTwist2_R
+    100070: _dummy_HandTwist2_R_end
+    100072: _dummy_HandTwist3_L
+    100074: _dummy_HandTwist3_L_end
+    100076: _dummy_HandTwist3_R
+    100078: _dummy_HandTwist3_R_end
+    100080: _dummy_KneeD_L
+    100082: _dummy_KneeD_L_end
+    100084: _dummy_KneeD_R
+    100086: _dummy_KneeD_R_end
+    100088: _dummy_LegD_L
+    100090: _dummy_LegD_L_end
+    100092: _dummy_LegD_R
+    100094: _dummy_LegD_R_end
+    100096: _dummy_ShoulderC_L
+    100098: _dummy_ShoulderC_L_end
+    100100: _dummy_ShoulderC_R
+    100102: _dummy_ShoulderC_R_end
+    100104: _dummy_WaistCancel_L
+    100106: _dummy_WaistCancel_L_end
+    100108: _dummy_WaistCancel_R
+    100110: _dummy_WaistCancel_R_end
+    100112: _shadow_+LegD_L
+    100114: _shadow_+LegD_L_end
+    100116: _shadow_+LegD_R
+    100118: _shadow_+LegD_R_end
+    100120: _shadow_AnkleD_L
+    100122: _shadow_AnkleD_L_end
+    100124: _shadow_AnkleD_R
+    100126: _shadow_AnkleD_R_end
+    100128: _shadow_ArmTwist1_L
+    100130: _shadow_ArmTwist1_L_end
+    100132: _shadow_ArmTwist1_R
+    100134: _shadow_ArmTwist1_R_end
+    100136: _shadow_ArmTwist2_L
+    100138: _shadow_ArmTwist2_L_end
+    100140: _shadow_ArmTwist2_R
+    100142: _shadow_ArmTwist2_R_end
+    100144: _shadow_ArmTwist3_L
+    100146: _shadow_ArmTwist3_L_end
+    100148: _shadow_ArmTwist3_R
+    100150: _shadow_ArmTwist3_R_end
+    100152: _shadow_Eye_L
+    100154: _shadow_Eye_L_end
+    100156: _shadow_Eye_R
+    100158: _shadow_Eye_R_end
+    100160: _shadow_HandTwist1_L
+    100162: _shadow_HandTwist1_L_end
+    100164: _shadow_HandTwist1_R
+    100166: _shadow_HandTwist1_R_end
+    100168: _shadow_HandTwist2_L
+    100170: _shadow_HandTwist2_L_end
+    100172: _shadow_HandTwist2_R
+    100174: _shadow_HandTwist2_R_end
+    100176: _shadow_HandTwist3_L
+    100178: _shadow_HandTwist3_L_end
+    100180: _shadow_HandTwist3_R
+    100182: _shadow_HandTwist3_R_end
+    100184: _shadow_KneeD_L
+    100186: _shadow_KneeD_L_end
+    100188: _shadow_KneeD_R
+    100190: _shadow_KneeD_R_end
+    100192: _shadow_LegD_L
+    100194: _shadow_LegD_L_end
+    100196: _shadow_LegD_R
+    100198: _shadow_LegD_R_end
+    100200: _shadow_ShoulderC_L
+    100202: _shadow_ShoulderC_L_end
+    100204: _shadow_ShoulderC_R
+    100206: _shadow_ShoulderC_R_end
+    100208: _shadow_WaistCancel_L
+    100210: _shadow_WaistCancel_L_end
+    100212: _shadow_WaistCancel_R
+    100214: _shadow_WaistCancel_R_end
+    100216: Ankle_L
+    100218: Ankle_R
+    100220: AnkleD_L
+    100222: AnkleD_R
+    100224: Arm_L
+    100226: Arm_R
+    100228: ArmTwist1_L
+    100230: ArmTwist1_L_end
+    100232: ArmTwist1_R
+    100234: ArmTwist1_R_end
+    100236: ArmTwist2_L
+    100238: ArmTwist2_L_end
+    100240: ArmTwist2_R
+    100242: ArmTwist2_R_end
+    100244: ArmTwist3_L
+    100246: ArmTwist3_L_end
+    100248: ArmTwist3_R
+    100250: ArmTwist3_R_end
+    100252: ArmTwist_L
+    100254: ArmTwist_R
+    100256: Center
+    100258: Dummy_L
+    100260: Dummy_L_end
+    100262: Dummy_R
+    100264: Dummy_R_end
+    100266: Elbow_L
+    100268: Elbow_R
+    100270: Eye_L
+    100272: Eye_R
+    100274: Eyeglasses
+    100276: Eyeglasses_end
+    100278: EyeReturn_L
+    100280: EyeReturn_L_end
+    100282: EyeReturn_R
+    100284: EyeReturn_R_end
+    100286: Eyes
+    100288: FrontHair1
+    100290: FrontHair1_2
+    100292: FrontHair1_2_end
+    100294: FrontHair2
+    100296: FrontHair2_2
+    100298: FrontHair2_2_end
+    100300: FrontHair3
+    100302: FrontHair3_2
+    100304: FrontHair3_2_end
+    100306: Groove
+    100308: Hair1_L
+    100310: Hair2_L
+    100312: "Hair2\u679D_L"
+    100314: "Hair2\u679D_L_end"
+    100316: Hair3_L
+    100318: Hair4_L
+    100320: Hair5_L
+    100322: Hair6_L
+    100324: Hair7_L
+    100326: Hair8_L
+    100328: Hair8Tip_L
+    100330: Hair8Tip_L_end
+    100332: HandTip_L
+    100334: HandTip_L_end
+    100336: HandTip_R
+    100338: HandTip_R_end
+    100340: HandTwist1_L
+    100342: HandTwist1_L_end
+    100344: HandTwist1_R
+    100346: HandTwist1_R_end
+    100348: HandTwist2_L
+    100350: HandTwist2_L_end
+    100352: HandTwist2_R
+    100354: HandTwist2_R_end
+    100356: HandTwist3_L
+    100358: HandTwist3_L_end
+    100360: HandTwist3_R
+    100362: HandTwist3_R_end
+    100364: HandTwist_L
+    100366: HandTwist_R
+    100368: Head
+    100370: HeadTip
+    100372: HeadTip_end
+    100374: IndexFinger1_L
+    100376: IndexFinger1_R
+    100378: IndexFinger2_L
+    100380: IndexFinger2_R
+    100382: IndexFinger3_L
+    100384: IndexFinger3_R
+    100386: IndexFingerTip_L
+    100388: IndexFingerTip_L_end
+    100390: IndexFingerTip_R
+    100392: IndexFingerTip_R_end
+    100394: Knee_L
+    100396: Knee_R
+    100398: KneeD_L
+    100400: KneeD_R
+    100402: Leg_L
+    100404: Leg_R
+    100406: LegD_L
+    100408: LegD_R
+    100410: LegIK_L
+    100412: LegIK_R
+    100414: LegIKParent_L
+    100416: LegIKParent_R
+    100418: LegTipEX_L
+    100420: LegTipEX_L_end
+    100422: LegTipEX_R
+    100424: LegTipEX_R_end
+    100426: LittleFinger1_L
+    100428: LittleFinger1_R
+    100430: LittleFinger2_L
+    100432: LittleFinger2_R
+    100434: LittleFinger3_L
+    100436: LittleFinger3_R
+    100438: LittleFingerTip_L
+    100440: LittleFingerTip_L_end
+    100442: LittleFingerTip_R
+    100444: LittleFingerTip_R_end
+    100446: LowerBody
+    100448: LowerBodyTip
+    100450: LowerBodyTip_end
+    100452: MiddleFinger1_L
+    100454: MiddleFinger1_R
+    100456: MiddleFinger2_L
+    100458: MiddleFinger2_R
+    100460: MiddleFinger3_L
+    100462: MiddleFinger3_R
+    100464: MiddleFingerTip_L
+    100466: MiddleFingerTip_L_end
+    100468: MiddleFingerTip_R
+    100470: MiddleFingerTip_R_end
+    100472: Neck
+    100474: //RootNode
+    100476: ParentNode
+    100478: RingFinger1_L
+    100480: RingFinger1_R
+    100482: RingFinger2_L
+    100484: RingFinger2_R
+    100486: RingFinger3_L
+    100488: RingFinger3_R
+    100490: RingFingerTip_L
+    100492: RingFingerTip_L_end
+    100494: RingFingerTip_R
+    100496: RingFingerTip_R_end
+    100498: Shirt_0_0
+    100500: Shirt_0_1
+    100502: Shirt_0_10
+    100504: Shirt_0_11
+    100506: Shirt_0_12
+    100508: Shirt_0_13
+    100510: Shirt_0_14
+    100512: Shirt_0_2
+    100514: Shirt_0_3
+    100516: Shirt_0_4
+    100518: Shirt_0_5
+    100520: Shirt_0_6
+    100522: Shirt_0_7
+    100524: Shirt_0_8
+    100526: Shirt_0_9
+    100528: Shirt_1_0
+    100530: Shirt_1_1
+    100532: Shirt_1_10
+    100534: Shirt_1_11
+    100536: Shirt_1_12
+    100538: Shirt_1_13
+    100540: Shirt_1_14
+    100542: Shirt_1_2
+    100544: Shirt_1_3
+    100546: Shirt_1_4
+    100548: Shirt_1_5
+    100550: Shirt_1_6
+    100552: Shirt_1_7
+    100554: Shirt_1_8
+    100556: Shirt_1_9
+    100558: Shirt_2_0
+    100560: Shirt_2_1
+    100562: Shirt_2_10
+    100564: Shirt_2_11
+    100566: Shirt_2_12
+    100568: Shirt_2_13
+    100570: Shirt_2_14
+    100572: Shirt_2_2
+    100574: Shirt_2_3
+    100576: Shirt_2_4
+    100578: Shirt_2_5
+    100580: Shirt_2_6
+    100582: Shirt_2_7
+    100584: Shirt_2_8
+    100586: Shirt_2_9
+    100588: Shirt_3_0
+    100590: Shirt_3_1
+    100592: Shirt_3_10
+    100594: Shirt_3_11
+    100596: Shirt_3_12
+    100598: Shirt_3_13
+    100600: Shirt_3_14
+    100602: Shirt_3_2
+    100604: Shirt_3_3
+    100606: Shirt_3_4
+    100608: Shirt_3_5
+    100610: Shirt_3_6
+    100612: Shirt_3_7
+    100614: Shirt_3_8
+    100616: Shirt_3_9
+    100618: Shirt_4_0
+    100620: Shirt_4_1
+    100622: Shirt_4_10
+    100624: Shirt_4_11
+    100626: Shirt_4_12
+    100628: Shirt_4_13
+    100630: Shirt_4_14
+    100632: Shirt_4_2
+    100634: Shirt_4_3
+    100636: Shirt_4_4
+    100638: Shirt_4_5
+    100640: Shirt_4_6
+    100642: Shirt_4_7
+    100644: Shirt_4_8
+    100646: Shirt_4_9
+    100648: Shirt_5_0
+    100650: Shirt_5_1
+    100652: Shirt_5_10
+    100654: Shirt_5_11
+    100656: Shirt_5_12
+    100658: Shirt_5_13
+    100660: Shirt_5_14
+    100662: Shirt_5_2
+    100664: Shirt_5_3
+    100666: Shirt_5_4
+    100668: Shirt_5_5
+    100670: Shirt_5_6
+    100672: Shirt_5_7
+    100674: Shirt_5_8
+    100676: Shirt_5_9
+    100678: Shirt_6_0
+    100680: Shirt_6_1
+    100682: Shirt_6_10
+    100684: Shirt_6_11
+    100686: Shirt_6_12
+    100688: Shirt_6_13
+    100690: Shirt_6_14
+    100692: Shirt_6_2
+    100694: Shirt_6_3
+    100696: Shirt_6_4
+    100698: Shirt_6_5
+    100700: Shirt_6_6
+    100702: Shirt_6_7
+    100704: Shirt_6_8
+    100706: Shirt_6_9
+    100708: Shirt_7_0
+    100710: Shirt_7_1
+    100712: Shirt_7_10
+    100714: Shirt_7_11
+    100716: Shirt_7_12
+    100718: Shirt_7_13
+    100720: Shirt_7_14
+    100722: Shirt_7_2
+    100724: Shirt_7_3
+    100726: Shirt_7_4
+    100728: Shirt_7_5
+    100730: Shirt_7_6
+    100732: Shirt_7_7
+    100734: Shirt_7_8
+    100736: Shirt_7_9
+    100738: Shirt_8_0
+    100740: Shirt_8_1
+    100742: Shirt_8_10
+    100744: Shirt_8_11
+    100746: Shirt_8_12
+    100748: Shirt_8_13
+    100750: Shirt_8_14
+    100752: Shirt_8_2
+    100754: Shirt_8_3
+    100756: Shirt_8_4
+    100758: Shirt_8_5
+    100760: Shirt_8_6
+    100762: Shirt_8_7
+    100764: Shirt_8_8
+    100766: Shirt_8_9
+    100768: Shirt_9_0
+    100770: Shirt_9_0_end
+    100772: Shirt_9_1
+    100774: Shirt_9_10
+    100776: Shirt_9_10_end
+    100778: Shirt_9_11
+    100780: Shirt_9_11_end
+    100782: Shirt_9_12
+    100784: Shirt_9_12_end
+    100786: Shirt_9_13
+    100788: Shirt_9_13_end
+    100790: Shirt_9_14
+    100792: Shirt_9_14_end
+    100794: Shirt_9_1_end
+    100796: Shirt_9_2
+    100798: Shirt_9_2_end
+    100800: Shirt_9_3
+    100802: Shirt_9_3_end
+    100804: Shirt_9_4
+    100806: Shirt_9_4_end
+    100808: Shirt_9_5
+    100810: Shirt_9_5_end
+    100812: Shirt_9_6
+    100814: Shirt_9_6_end
+    100816: Shirt_9_7
+    100818: Shirt_9_7_end
+    100820: Shirt_9_8
+    100822: Shirt_9_8_end
+    100824: Shirt_9_9
+    100826: Shirt_9_9_end
+    100828: Shoulder_L
+    100830: Shoulder_R
+    100832: ShoulderC_L
+    100834: ShoulderC_R
+    100836: ShoulderP_L
+    100838: ShoulderP_R
+    100840: Sideburn1_L
+    100842: Sideburn1_R
+    100844: Sideburn2_L
+    100846: Sideburn2_L_end
+    100848: Sideburn2_R
+    100850: Sideburn2_R_end
+    100852: TDA Black Neru
+    100854: TDA Black Neru_arm
+    100856: TDA Black Neru_mesh
+    100858: Thumb0_L
+    100860: Thumb0_R
+    100862: Thumb1_L
+    100864: Thumb1_R
+    100866: Thumb2_L
+    100868: Thumb2_R
+    100870: ThumbTip_L
+    100872: ThumbTip_L_end
+    100874: ThumbTip_R
+    100876: ThumbTip_R_end
+    100878: ToeTip_L
+    100880: ToeTip_L_end
+    100882: ToeTip_R
+    100884: ToeTip_R_end
+    100886: ToeTipIK_L
+    100888: ToeTipIK_L_end
+    100890: ToeTipIK_R
+    100892: ToeTipIK_R_end
+    100894: Tongue1
+    100896: Tongue2
+    100898: Tongue3
+    100900: Tongue3_end
+    100902: UpperBody
+    100904: UpperBody2
+    100906: Waist
+    100908: WaistCancel_L
+    100910: WaistCancel_R
+    100912: Wrist_L
+    100914: Wrist_R
+    400000: +LegD_L
+    400002: +LegD_L_end
+    400004: +LegD_R
+    400006: +LegD_R_end
+    400008: _dummy_+LegD_L
+    400010: _dummy_+LegD_L_end
+    400012: _dummy_+LegD_R
+    400014: _dummy_+LegD_R_end
+    400016: _dummy_AnkleD_L
+    400018: _dummy_AnkleD_L_end
+    400020: _dummy_AnkleD_R
+    400022: _dummy_AnkleD_R_end
+    400024: _dummy_ArmTwist1_L
+    400026: _dummy_ArmTwist1_L_end
+    400028: _dummy_ArmTwist1_R
+    400030: _dummy_ArmTwist1_R_end
+    400032: _dummy_ArmTwist2_L
+    400034: _dummy_ArmTwist2_L_end
+    400036: _dummy_ArmTwist2_R
+    400038: _dummy_ArmTwist2_R_end
+    400040: _dummy_ArmTwist3_L
+    400042: _dummy_ArmTwist3_L_end
+    400044: _dummy_ArmTwist3_R
+    400046: _dummy_ArmTwist3_R_end
+    400048: _dummy_Eye_L
+    400050: _dummy_Eye_L_end
+    400052: _dummy_Eye_R
+    400054: _dummy_Eye_R_end
+    400056: _dummy_HandTwist1_L
+    400058: _dummy_HandTwist1_L_end
+    400060: _dummy_HandTwist1_R
+    400062: _dummy_HandTwist1_R_end
+    400064: _dummy_HandTwist2_L
+    400066: _dummy_HandTwist2_L_end
+    400068: _dummy_HandTwist2_R
+    400070: _dummy_HandTwist2_R_end
+    400072: _dummy_HandTwist3_L
+    400074: _dummy_HandTwist3_L_end
+    400076: _dummy_HandTwist3_R
+    400078: _dummy_HandTwist3_R_end
+    400080: _dummy_KneeD_L
+    400082: _dummy_KneeD_L_end
+    400084: _dummy_KneeD_R
+    400086: _dummy_KneeD_R_end
+    400088: _dummy_LegD_L
+    400090: _dummy_LegD_L_end
+    400092: _dummy_LegD_R
+    400094: _dummy_LegD_R_end
+    400096: _dummy_ShoulderC_L
+    400098: _dummy_ShoulderC_L_end
+    400100: _dummy_ShoulderC_R
+    400102: _dummy_ShoulderC_R_end
+    400104: _dummy_WaistCancel_L
+    400106: _dummy_WaistCancel_L_end
+    400108: _dummy_WaistCancel_R
+    400110: _dummy_WaistCancel_R_end
+    400112: _shadow_+LegD_L
+    400114: _shadow_+LegD_L_end
+    400116: _shadow_+LegD_R
+    400118: _shadow_+LegD_R_end
+    400120: _shadow_AnkleD_L
+    400122: _shadow_AnkleD_L_end
+    400124: _shadow_AnkleD_R
+    400126: _shadow_AnkleD_R_end
+    400128: _shadow_ArmTwist1_L
+    400130: _shadow_ArmTwist1_L_end
+    400132: _shadow_ArmTwist1_R
+    400134: _shadow_ArmTwist1_R_end
+    400136: _shadow_ArmTwist2_L
+    400138: _shadow_ArmTwist2_L_end
+    400140: _shadow_ArmTwist2_R
+    400142: _shadow_ArmTwist2_R_end
+    400144: _shadow_ArmTwist3_L
+    400146: _shadow_ArmTwist3_L_end
+    400148: _shadow_ArmTwist3_R
+    400150: _shadow_ArmTwist3_R_end
+    400152: _shadow_Eye_L
+    400154: _shadow_Eye_L_end
+    400156: _shadow_Eye_R
+    400158: _shadow_Eye_R_end
+    400160: _shadow_HandTwist1_L
+    400162: _shadow_HandTwist1_L_end
+    400164: _shadow_HandTwist1_R
+    400166: _shadow_HandTwist1_R_end
+    400168: _shadow_HandTwist2_L
+    400170: _shadow_HandTwist2_L_end
+    400172: _shadow_HandTwist2_R
+    400174: _shadow_HandTwist2_R_end
+    400176: _shadow_HandTwist3_L
+    400178: _shadow_HandTwist3_L_end
+    400180: _shadow_HandTwist3_R
+    400182: _shadow_HandTwist3_R_end
+    400184: _shadow_KneeD_L
+    400186: _shadow_KneeD_L_end
+    400188: _shadow_KneeD_R
+    400190: _shadow_KneeD_R_end
+    400192: _shadow_LegD_L
+    400194: _shadow_LegD_L_end
+    400196: _shadow_LegD_R
+    400198: _shadow_LegD_R_end
+    400200: _shadow_ShoulderC_L
+    400202: _shadow_ShoulderC_L_end
+    400204: _shadow_ShoulderC_R
+    400206: _shadow_ShoulderC_R_end
+    400208: _shadow_WaistCancel_L
+    400210: _shadow_WaistCancel_L_end
+    400212: _shadow_WaistCancel_R
+    400214: _shadow_WaistCancel_R_end
+    400216: Ankle_L
+    400218: Ankle_R
+    400220: AnkleD_L
+    400222: AnkleD_R
+    400224: Arm_L
+    400226: Arm_R
+    400228: ArmTwist1_L
+    400230: ArmTwist1_L_end
+    400232: ArmTwist1_R
+    400234: ArmTwist1_R_end
+    400236: ArmTwist2_L
+    400238: ArmTwist2_L_end
+    400240: ArmTwist2_R
+    400242: ArmTwist2_R_end
+    400244: ArmTwist3_L
+    400246: ArmTwist3_L_end
+    400248: ArmTwist3_R
+    400250: ArmTwist3_R_end
+    400252: ArmTwist_L
+    400254: ArmTwist_R
+    400256: Center
+    400258: Dummy_L
+    400260: Dummy_L_end
+    400262: Dummy_R
+    400264: Dummy_R_end
+    400266: Elbow_L
+    400268: Elbow_R
+    400270: Eye_L
+    400272: Eye_R
+    400274: Eyeglasses
+    400276: Eyeglasses_end
+    400278: EyeReturn_L
+    400280: EyeReturn_L_end
+    400282: EyeReturn_R
+    400284: EyeReturn_R_end
+    400286: Eyes
+    400288: FrontHair1
+    400290: FrontHair1_2
+    400292: FrontHair1_2_end
+    400294: FrontHair2
+    400296: FrontHair2_2
+    400298: FrontHair2_2_end
+    400300: FrontHair3
+    400302: FrontHair3_2
+    400304: FrontHair3_2_end
+    400306: Groove
+    400308: Hair1_L
+    400310: Hair2_L
+    400312: "Hair2\u679D_L"
+    400314: "Hair2\u679D_L_end"
+    400316: Hair3_L
+    400318: Hair4_L
+    400320: Hair5_L
+    400322: Hair6_L
+    400324: Hair7_L
+    400326: Hair8_L
+    400328: Hair8Tip_L
+    400330: Hair8Tip_L_end
+    400332: HandTip_L
+    400334: HandTip_L_end
+    400336: HandTip_R
+    400338: HandTip_R_end
+    400340: HandTwist1_L
+    400342: HandTwist1_L_end
+    400344: HandTwist1_R
+    400346: HandTwist1_R_end
+    400348: HandTwist2_L
+    400350: HandTwist2_L_end
+    400352: HandTwist2_R
+    400354: HandTwist2_R_end
+    400356: HandTwist3_L
+    400358: HandTwist3_L_end
+    400360: HandTwist3_R
+    400362: HandTwist3_R_end
+    400364: HandTwist_L
+    400366: HandTwist_R
+    400368: Head
+    400370: HeadTip
+    400372: HeadTip_end
+    400374: IndexFinger1_L
+    400376: IndexFinger1_R
+    400378: IndexFinger2_L
+    400380: IndexFinger2_R
+    400382: IndexFinger3_L
+    400384: IndexFinger3_R
+    400386: IndexFingerTip_L
+    400388: IndexFingerTip_L_end
+    400390: IndexFingerTip_R
+    400392: IndexFingerTip_R_end
+    400394: Knee_L
+    400396: Knee_R
+    400398: KneeD_L
+    400400: KneeD_R
+    400402: Leg_L
+    400404: Leg_R
+    400406: LegD_L
+    400408: LegD_R
+    400410: LegIK_L
+    400412: LegIK_R
+    400414: LegIKParent_L
+    400416: LegIKParent_R
+    400418: LegTipEX_L
+    400420: LegTipEX_L_end
+    400422: LegTipEX_R
+    400424: LegTipEX_R_end
+    400426: LittleFinger1_L
+    400428: LittleFinger1_R
+    400430: LittleFinger2_L
+    400432: LittleFinger2_R
+    400434: LittleFinger3_L
+    400436: LittleFinger3_R
+    400438: LittleFingerTip_L
+    400440: LittleFingerTip_L_end
+    400442: LittleFingerTip_R
+    400444: LittleFingerTip_R_end
+    400446: LowerBody
+    400448: LowerBodyTip
+    400450: LowerBodyTip_end
+    400452: MiddleFinger1_L
+    400454: MiddleFinger1_R
+    400456: MiddleFinger2_L
+    400458: MiddleFinger2_R
+    400460: MiddleFinger3_L
+    400462: MiddleFinger3_R
+    400464: MiddleFingerTip_L
+    400466: MiddleFingerTip_L_end
+    400468: MiddleFingerTip_R
+    400470: MiddleFingerTip_R_end
+    400472: Neck
+    400474: //RootNode
+    400476: ParentNode
+    400478: RingFinger1_L
+    400480: RingFinger1_R
+    400482: RingFinger2_L
+    400484: RingFinger2_R
+    400486: RingFinger3_L
+    400488: RingFinger3_R
+    400490: RingFingerTip_L
+    400492: RingFingerTip_L_end
+    400494: RingFingerTip_R
+    400496: RingFingerTip_R_end
+    400498: Shirt_0_0
+    400500: Shirt_0_1
+    400502: Shirt_0_10
+    400504: Shirt_0_11
+    400506: Shirt_0_12
+    400508: Shirt_0_13
+    400510: Shirt_0_14
+    400512: Shirt_0_2
+    400514: Shirt_0_3
+    400516: Shirt_0_4
+    400518: Shirt_0_5
+    400520: Shirt_0_6
+    400522: Shirt_0_7
+    400524: Shirt_0_8
+    400526: Shirt_0_9
+    400528: Shirt_1_0
+    400530: Shirt_1_1
+    400532: Shirt_1_10
+    400534: Shirt_1_11
+    400536: Shirt_1_12
+    400538: Shirt_1_13
+    400540: Shirt_1_14
+    400542: Shirt_1_2
+    400544: Shirt_1_3
+    400546: Shirt_1_4
+    400548: Shirt_1_5
+    400550: Shirt_1_6
+    400552: Shirt_1_7
+    400554: Shirt_1_8
+    400556: Shirt_1_9
+    400558: Shirt_2_0
+    400560: Shirt_2_1
+    400562: Shirt_2_10
+    400564: Shirt_2_11
+    400566: Shirt_2_12
+    400568: Shirt_2_13
+    400570: Shirt_2_14
+    400572: Shirt_2_2
+    400574: Shirt_2_3
+    400576: Shirt_2_4
+    400578: Shirt_2_5
+    400580: Shirt_2_6
+    400582: Shirt_2_7
+    400584: Shirt_2_8
+    400586: Shirt_2_9
+    400588: Shirt_3_0
+    400590: Shirt_3_1
+    400592: Shirt_3_10
+    400594: Shirt_3_11
+    400596: Shirt_3_12
+    400598: Shirt_3_13
+    400600: Shirt_3_14
+    400602: Shirt_3_2
+    400604: Shirt_3_3
+    400606: Shirt_3_4
+    400608: Shirt_3_5
+    400610: Shirt_3_6
+    400612: Shirt_3_7
+    400614: Shirt_3_8
+    400616: Shirt_3_9
+    400618: Shirt_4_0
+    400620: Shirt_4_1
+    400622: Shirt_4_10
+    400624: Shirt_4_11
+    400626: Shirt_4_12
+    400628: Shirt_4_13
+    400630: Shirt_4_14
+    400632: Shirt_4_2
+    400634: Shirt_4_3
+    400636: Shirt_4_4
+    400638: Shirt_4_5
+    400640: Shirt_4_6
+    400642: Shirt_4_7
+    400644: Shirt_4_8
+    400646: Shirt_4_9
+    400648: Shirt_5_0
+    400650: Shirt_5_1
+    400652: Shirt_5_10
+    400654: Shirt_5_11
+    400656: Shirt_5_12
+    400658: Shirt_5_13
+    400660: Shirt_5_14
+    400662: Shirt_5_2
+    400664: Shirt_5_3
+    400666: Shirt_5_4
+    400668: Shirt_5_5
+    400670: Shirt_5_6
+    400672: Shirt_5_7
+    400674: Shirt_5_8
+    400676: Shirt_5_9
+    400678: Shirt_6_0
+    400680: Shirt_6_1
+    400682: Shirt_6_10
+    400684: Shirt_6_11
+    400686: Shirt_6_12
+    400688: Shirt_6_13
+    400690: Shirt_6_14
+    400692: Shirt_6_2
+    400694: Shirt_6_3
+    400696: Shirt_6_4
+    400698: Shirt_6_5
+    400700: Shirt_6_6
+    400702: Shirt_6_7
+    400704: Shirt_6_8
+    400706: Shirt_6_9
+    400708: Shirt_7_0
+    400710: Shirt_7_1
+    400712: Shirt_7_10
+    400714: Shirt_7_11
+    400716: Shirt_7_12
+    400718: Shirt_7_13
+    400720: Shirt_7_14
+    400722: Shirt_7_2
+    400724: Shirt_7_3
+    400726: Shirt_7_4
+    400728: Shirt_7_5
+    400730: Shirt_7_6
+    400732: Shirt_7_7
+    400734: Shirt_7_8
+    400736: Shirt_7_9
+    400738: Shirt_8_0
+    400740: Shirt_8_1
+    400742: Shirt_8_10
+    400744: Shirt_8_11
+    400746: Shirt_8_12
+    400748: Shirt_8_13
+    400750: Shirt_8_14
+    400752: Shirt_8_2
+    400754: Shirt_8_3
+    400756: Shirt_8_4
+    400758: Shirt_8_5
+    400760: Shirt_8_6
+    400762: Shirt_8_7
+    400764: Shirt_8_8
+    400766: Shirt_8_9
+    400768: Shirt_9_0
+    400770: Shirt_9_0_end
+    400772: Shirt_9_1
+    400774: Shirt_9_10
+    400776: Shirt_9_10_end
+    400778: Shirt_9_11
+    400780: Shirt_9_11_end
+    400782: Shirt_9_12
+    400784: Shirt_9_12_end
+    400786: Shirt_9_13
+    400788: Shirt_9_13_end
+    400790: Shirt_9_14
+    400792: Shirt_9_14_end
+    400794: Shirt_9_1_end
+    400796: Shirt_9_2
+    400798: Shirt_9_2_end
+    400800: Shirt_9_3
+    400802: Shirt_9_3_end
+    400804: Shirt_9_4
+    400806: Shirt_9_4_end
+    400808: Shirt_9_5
+    400810: Shirt_9_5_end
+    400812: Shirt_9_6
+    400814: Shirt_9_6_end
+    400816: Shirt_9_7
+    400818: Shirt_9_7_end
+    400820: Shirt_9_8
+    400822: Shirt_9_8_end
+    400824: Shirt_9_9
+    400826: Shirt_9_9_end
+    400828: Shoulder_L
+    400830: Shoulder_R
+    400832: ShoulderC_L
+    400834: ShoulderC_R
+    400836: ShoulderP_L
+    400838: ShoulderP_R
+    400840: Sideburn1_L
+    400842: Sideburn1_R
+    400844: Sideburn2_L
+    400846: Sideburn2_L_end
+    400848: Sideburn2_R
+    400850: Sideburn2_R_end
+    400852: TDA Black Neru
+    400854: TDA Black Neru_arm
+    400856: TDA Black Neru_mesh
+    400858: Thumb0_L
+    400860: Thumb0_R
+    400862: Thumb1_L
+    400864: Thumb1_R
+    400866: Thumb2_L
+    400868: Thumb2_R
+    400870: ThumbTip_L
+    400872: ThumbTip_L_end
+    400874: ThumbTip_R
+    400876: ThumbTip_R_end
+    400878: ToeTip_L
+    400880: ToeTip_L_end
+    400882: ToeTip_R
+    400884: ToeTip_R_end
+    400886: ToeTipIK_L
+    400888: ToeTipIK_L_end
+    400890: ToeTipIK_R
+    400892: ToeTipIK_R_end
+    400894: Tongue1
+    400896: Tongue2
+    400898: Tongue3
+    400900: Tongue3_end
+    400902: UpperBody
+    400904: UpperBody2
+    400906: Waist
+    400908: WaistCancel_L
+    400910: WaistCancel_R
+    400912: Wrist_L
+    400914: Wrist_R
+    4300000: TDA Black Neru_mesh
+    7400000: TDA Black Neru_arm|Motion_bone
+    9500000: //RootNode
+    13700000: TDA Black Neru_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TDA Black Neru_arm|Motion_bone
+      takeName: TDA Black Neru_arm|Motion_bone
+      firstFrame: 0
+      lastFrame: 2977
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: TDA Black Neru
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/_shadow_WaistCancel_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/_shadow_WaistCancel_L/_shadow_WaistCancel_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/_shadow_WaistCancel_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/_shadow_WaistCancel_R/_shadow_WaistCancel_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/_dummy_WaistCancel_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/_dummy_WaistCancel_L/_dummy_WaistCancel_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/_dummy_WaistCancel_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/_dummy_WaistCancel_R/_dummy_WaistCancel_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/LowerBodyTip
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/LowerBodyTip/LowerBodyTip_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/+LegD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/+LegD_L/+LegD_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/_shadow_+LegD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/_shadow_+LegD_L/_shadow_+LegD_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/_shadow_LegD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/_shadow_LegD_L/_shadow_LegD_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/_dummy_+LegD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/_dummy_+LegD_L/_dummy_+LegD_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/_dummy_LegD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/_dummy_LegD_L/_dummy_LegD_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/_shadow_KneeD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/_shadow_KneeD_L/_shadow_KneeD_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L/_dummy_KneeD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L/_dummy_KneeD_L/_dummy_KneeD_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L/_shadow_AnkleD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L/_shadow_AnkleD_L/_shadow_AnkleD_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L/Ankle_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L/Ankle_L/_dummy_AnkleD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L/Ankle_L/_dummy_AnkleD_L/_dummy_AnkleD_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L/Ankle_L/ToeTip_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/Leg_L/Knee_L/Ankle_L/ToeTip_L/ToeTip_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/LegD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/LegD_L/KneeD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/LegD_L/KneeD_L/AnkleD_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/LegD_L/KneeD_L/AnkleD_L/LegTipEX_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_L/LegD_L/KneeD_L/AnkleD_L/LegTipEX_L/LegTipEX_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/+LegD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/+LegD_R/+LegD_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/_shadow_+LegD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/_shadow_+LegD_R/_shadow_+LegD_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/_shadow_LegD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/_shadow_LegD_R/_shadow_LegD_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/_dummy_+LegD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/_dummy_+LegD_R/_dummy_+LegD_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/_dummy_LegD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/_dummy_LegD_R/_dummy_LegD_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/_shadow_KneeD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/_shadow_KneeD_R/_shadow_KneeD_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R/_dummy_KneeD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R/_dummy_KneeD_R/_dummy_KneeD_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R/_shadow_AnkleD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R/_shadow_AnkleD_R/_shadow_AnkleD_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R/Ankle_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R/Ankle_R/_dummy_AnkleD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R/Ankle_R/_dummy_AnkleD_R/_dummy_AnkleD_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R/Ankle_R/ToeTip_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/Leg_R/Knee_R/Ankle_R/ToeTip_R/ToeTip_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/LegD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/LegD_R/KneeD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/LegD_R/KneeD_R/AnkleD_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/LegD_R/KneeD_R/AnkleD_R/LegTipEX_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/LowerBody/WaistCancel_R/LegD_R/KneeD_R/AnkleD_R/LegTipEX_R/LegTipEX_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0/Shirt_2_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0/Shirt_2_0/Shirt_3_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0/Shirt_2_0/Shirt_3_0/Shirt_4_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0/Shirt_2_0/Shirt_3_0/Shirt_4_0/Shirt_5_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0/Shirt_2_0/Shirt_3_0/Shirt_4_0/Shirt_5_0/Shirt_6_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0/Shirt_2_0/Shirt_3_0/Shirt_4_0/Shirt_5_0/Shirt_6_0/Shirt_7_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0/Shirt_2_0/Shirt_3_0/Shirt_4_0/Shirt_5_0/Shirt_6_0/Shirt_7_0/Shirt_8_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0/Shirt_2_0/Shirt_3_0/Shirt_4_0/Shirt_5_0/Shirt_6_0/Shirt_7_0/Shirt_8_0/Shirt_9_0
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_0/Shirt_1_0/Shirt_2_0/Shirt_3_0/Shirt_4_0/Shirt_5_0/Shirt_6_0/Shirt_7_0/Shirt_8_0/Shirt_9_0/Shirt_9_0_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1/Shirt_2_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1/Shirt_2_1/Shirt_3_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1/Shirt_2_1/Shirt_3_1/Shirt_4_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1/Shirt_2_1/Shirt_3_1/Shirt_4_1/Shirt_5_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1/Shirt_2_1/Shirt_3_1/Shirt_4_1/Shirt_5_1/Shirt_6_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1/Shirt_2_1/Shirt_3_1/Shirt_4_1/Shirt_5_1/Shirt_6_1/Shirt_7_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1/Shirt_2_1/Shirt_3_1/Shirt_4_1/Shirt_5_1/Shirt_6_1/Shirt_7_1/Shirt_8_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1/Shirt_2_1/Shirt_3_1/Shirt_4_1/Shirt_5_1/Shirt_6_1/Shirt_7_1/Shirt_8_1/Shirt_9_1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_1/Shirt_1_1/Shirt_2_1/Shirt_3_1/Shirt_4_1/Shirt_5_1/Shirt_6_1/Shirt_7_1/Shirt_8_1/Shirt_9_1/Shirt_9_1_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2/Shirt_2_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2/Shirt_2_2/Shirt_3_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2/Shirt_2_2/Shirt_3_2/Shirt_4_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2/Shirt_2_2/Shirt_3_2/Shirt_4_2/Shirt_5_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2/Shirt_2_2/Shirt_3_2/Shirt_4_2/Shirt_5_2/Shirt_6_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2/Shirt_2_2/Shirt_3_2/Shirt_4_2/Shirt_5_2/Shirt_6_2/Shirt_7_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2/Shirt_2_2/Shirt_3_2/Shirt_4_2/Shirt_5_2/Shirt_6_2/Shirt_7_2/Shirt_8_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2/Shirt_2_2/Shirt_3_2/Shirt_4_2/Shirt_5_2/Shirt_6_2/Shirt_7_2/Shirt_8_2/Shirt_9_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_2/Shirt_1_2/Shirt_2_2/Shirt_3_2/Shirt_4_2/Shirt_5_2/Shirt_6_2/Shirt_7_2/Shirt_8_2/Shirt_9_2/Shirt_9_2_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3/Shirt_2_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3/Shirt_2_3/Shirt_3_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3/Shirt_2_3/Shirt_3_3/Shirt_4_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3/Shirt_2_3/Shirt_3_3/Shirt_4_3/Shirt_5_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3/Shirt_2_3/Shirt_3_3/Shirt_4_3/Shirt_5_3/Shirt_6_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3/Shirt_2_3/Shirt_3_3/Shirt_4_3/Shirt_5_3/Shirt_6_3/Shirt_7_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3/Shirt_2_3/Shirt_3_3/Shirt_4_3/Shirt_5_3/Shirt_6_3/Shirt_7_3/Shirt_8_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3/Shirt_2_3/Shirt_3_3/Shirt_4_3/Shirt_5_3/Shirt_6_3/Shirt_7_3/Shirt_8_3/Shirt_9_3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_3/Shirt_1_3/Shirt_2_3/Shirt_3_3/Shirt_4_3/Shirt_5_3/Shirt_6_3/Shirt_7_3/Shirt_8_3/Shirt_9_3/Shirt_9_3_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4/Shirt_2_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4/Shirt_2_4/Shirt_3_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4/Shirt_2_4/Shirt_3_4/Shirt_4_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4/Shirt_2_4/Shirt_3_4/Shirt_4_4/Shirt_5_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4/Shirt_2_4/Shirt_3_4/Shirt_4_4/Shirt_5_4/Shirt_6_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4/Shirt_2_4/Shirt_3_4/Shirt_4_4/Shirt_5_4/Shirt_6_4/Shirt_7_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4/Shirt_2_4/Shirt_3_4/Shirt_4_4/Shirt_5_4/Shirt_6_4/Shirt_7_4/Shirt_8_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4/Shirt_2_4/Shirt_3_4/Shirt_4_4/Shirt_5_4/Shirt_6_4/Shirt_7_4/Shirt_8_4/Shirt_9_4
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_4/Shirt_1_4/Shirt_2_4/Shirt_3_4/Shirt_4_4/Shirt_5_4/Shirt_6_4/Shirt_7_4/Shirt_8_4/Shirt_9_4/Shirt_9_4_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5/Shirt_2_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5/Shirt_2_5/Shirt_3_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5/Shirt_2_5/Shirt_3_5/Shirt_4_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5/Shirt_2_5/Shirt_3_5/Shirt_4_5/Shirt_5_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5/Shirt_2_5/Shirt_3_5/Shirt_4_5/Shirt_5_5/Shirt_6_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5/Shirt_2_5/Shirt_3_5/Shirt_4_5/Shirt_5_5/Shirt_6_5/Shirt_7_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5/Shirt_2_5/Shirt_3_5/Shirt_4_5/Shirt_5_5/Shirt_6_5/Shirt_7_5/Shirt_8_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5/Shirt_2_5/Shirt_3_5/Shirt_4_5/Shirt_5_5/Shirt_6_5/Shirt_7_5/Shirt_8_5/Shirt_9_5
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_5/Shirt_1_5/Shirt_2_5/Shirt_3_5/Shirt_4_5/Shirt_5_5/Shirt_6_5/Shirt_7_5/Shirt_8_5/Shirt_9_5/Shirt_9_5_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6/Shirt_2_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6/Shirt_2_6/Shirt_3_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6/Shirt_2_6/Shirt_3_6/Shirt_4_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6/Shirt_2_6/Shirt_3_6/Shirt_4_6/Shirt_5_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6/Shirt_2_6/Shirt_3_6/Shirt_4_6/Shirt_5_6/Shirt_6_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6/Shirt_2_6/Shirt_3_6/Shirt_4_6/Shirt_5_6/Shirt_6_6/Shirt_7_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6/Shirt_2_6/Shirt_3_6/Shirt_4_6/Shirt_5_6/Shirt_6_6/Shirt_7_6/Shirt_8_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6/Shirt_2_6/Shirt_3_6/Shirt_4_6/Shirt_5_6/Shirt_6_6/Shirt_7_6/Shirt_8_6/Shirt_9_6
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_6/Shirt_1_6/Shirt_2_6/Shirt_3_6/Shirt_4_6/Shirt_5_6/Shirt_6_6/Shirt_7_6/Shirt_8_6/Shirt_9_6/Shirt_9_6_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7/Shirt_2_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7/Shirt_2_7/Shirt_3_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7/Shirt_2_7/Shirt_3_7/Shirt_4_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7/Shirt_2_7/Shirt_3_7/Shirt_4_7/Shirt_5_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7/Shirt_2_7/Shirt_3_7/Shirt_4_7/Shirt_5_7/Shirt_6_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7/Shirt_2_7/Shirt_3_7/Shirt_4_7/Shirt_5_7/Shirt_6_7/Shirt_7_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7/Shirt_2_7/Shirt_3_7/Shirt_4_7/Shirt_5_7/Shirt_6_7/Shirt_7_7/Shirt_8_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7/Shirt_2_7/Shirt_3_7/Shirt_4_7/Shirt_5_7/Shirt_6_7/Shirt_7_7/Shirt_8_7/Shirt_9_7
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_7/Shirt_1_7/Shirt_2_7/Shirt_3_7/Shirt_4_7/Shirt_5_7/Shirt_6_7/Shirt_7_7/Shirt_8_7/Shirt_9_7/Shirt_9_7_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8/Shirt_2_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8/Shirt_2_8/Shirt_3_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8/Shirt_2_8/Shirt_3_8/Shirt_4_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8/Shirt_2_8/Shirt_3_8/Shirt_4_8/Shirt_5_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8/Shirt_2_8/Shirt_3_8/Shirt_4_8/Shirt_5_8/Shirt_6_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8/Shirt_2_8/Shirt_3_8/Shirt_4_8/Shirt_5_8/Shirt_6_8/Shirt_7_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8/Shirt_2_8/Shirt_3_8/Shirt_4_8/Shirt_5_8/Shirt_6_8/Shirt_7_8/Shirt_8_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8/Shirt_2_8/Shirt_3_8/Shirt_4_8/Shirt_5_8/Shirt_6_8/Shirt_7_8/Shirt_8_8/Shirt_9_8
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_8/Shirt_1_8/Shirt_2_8/Shirt_3_8/Shirt_4_8/Shirt_5_8/Shirt_6_8/Shirt_7_8/Shirt_8_8/Shirt_9_8/Shirt_9_8_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9/Shirt_2_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9/Shirt_2_9/Shirt_3_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9/Shirt_2_9/Shirt_3_9/Shirt_4_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9/Shirt_2_9/Shirt_3_9/Shirt_4_9/Shirt_5_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9/Shirt_2_9/Shirt_3_9/Shirt_4_9/Shirt_5_9/Shirt_6_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9/Shirt_2_9/Shirt_3_9/Shirt_4_9/Shirt_5_9/Shirt_6_9/Shirt_7_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9/Shirt_2_9/Shirt_3_9/Shirt_4_9/Shirt_5_9/Shirt_6_9/Shirt_7_9/Shirt_8_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9/Shirt_2_9/Shirt_3_9/Shirt_4_9/Shirt_5_9/Shirt_6_9/Shirt_7_9/Shirt_8_9/Shirt_9_9
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_9/Shirt_1_9/Shirt_2_9/Shirt_3_9/Shirt_4_9/Shirt_5_9/Shirt_6_9/Shirt_7_9/Shirt_8_9/Shirt_9_9/Shirt_9_9_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10/Shirt_2_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10/Shirt_2_10/Shirt_3_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10/Shirt_2_10/Shirt_3_10/Shirt_4_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10/Shirt_2_10/Shirt_3_10/Shirt_4_10/Shirt_5_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10/Shirt_2_10/Shirt_3_10/Shirt_4_10/Shirt_5_10/Shirt_6_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10/Shirt_2_10/Shirt_3_10/Shirt_4_10/Shirt_5_10/Shirt_6_10/Shirt_7_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10/Shirt_2_10/Shirt_3_10/Shirt_4_10/Shirt_5_10/Shirt_6_10/Shirt_7_10/Shirt_8_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10/Shirt_2_10/Shirt_3_10/Shirt_4_10/Shirt_5_10/Shirt_6_10/Shirt_7_10/Shirt_8_10/Shirt_9_10
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_10/Shirt_1_10/Shirt_2_10/Shirt_3_10/Shirt_4_10/Shirt_5_10/Shirt_6_10/Shirt_7_10/Shirt_8_10/Shirt_9_10/Shirt_9_10_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11/Shirt_2_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11/Shirt_2_11/Shirt_3_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11/Shirt_2_11/Shirt_3_11/Shirt_4_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11/Shirt_2_11/Shirt_3_11/Shirt_4_11/Shirt_5_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11/Shirt_2_11/Shirt_3_11/Shirt_4_11/Shirt_5_11/Shirt_6_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11/Shirt_2_11/Shirt_3_11/Shirt_4_11/Shirt_5_11/Shirt_6_11/Shirt_7_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11/Shirt_2_11/Shirt_3_11/Shirt_4_11/Shirt_5_11/Shirt_6_11/Shirt_7_11/Shirt_8_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11/Shirt_2_11/Shirt_3_11/Shirt_4_11/Shirt_5_11/Shirt_6_11/Shirt_7_11/Shirt_8_11/Shirt_9_11
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_11/Shirt_1_11/Shirt_2_11/Shirt_3_11/Shirt_4_11/Shirt_5_11/Shirt_6_11/Shirt_7_11/Shirt_8_11/Shirt_9_11/Shirt_9_11_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12/Shirt_2_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12/Shirt_2_12/Shirt_3_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12/Shirt_2_12/Shirt_3_12/Shirt_4_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12/Shirt_2_12/Shirt_3_12/Shirt_4_12/Shirt_5_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12/Shirt_2_12/Shirt_3_12/Shirt_4_12/Shirt_5_12/Shirt_6_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12/Shirt_2_12/Shirt_3_12/Shirt_4_12/Shirt_5_12/Shirt_6_12/Shirt_7_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12/Shirt_2_12/Shirt_3_12/Shirt_4_12/Shirt_5_12/Shirt_6_12/Shirt_7_12/Shirt_8_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12/Shirt_2_12/Shirt_3_12/Shirt_4_12/Shirt_5_12/Shirt_6_12/Shirt_7_12/Shirt_8_12/Shirt_9_12
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_12/Shirt_1_12/Shirt_2_12/Shirt_3_12/Shirt_4_12/Shirt_5_12/Shirt_6_12/Shirt_7_12/Shirt_8_12/Shirt_9_12/Shirt_9_12_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13/Shirt_2_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13/Shirt_2_13/Shirt_3_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13/Shirt_2_13/Shirt_3_13/Shirt_4_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13/Shirt_2_13/Shirt_3_13/Shirt_4_13/Shirt_5_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13/Shirt_2_13/Shirt_3_13/Shirt_4_13/Shirt_5_13/Shirt_6_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13/Shirt_2_13/Shirt_3_13/Shirt_4_13/Shirt_5_13/Shirt_6_13/Shirt_7_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13/Shirt_2_13/Shirt_3_13/Shirt_4_13/Shirt_5_13/Shirt_6_13/Shirt_7_13/Shirt_8_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13/Shirt_2_13/Shirt_3_13/Shirt_4_13/Shirt_5_13/Shirt_6_13/Shirt_7_13/Shirt_8_13/Shirt_9_13
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_13/Shirt_1_13/Shirt_2_13/Shirt_3_13/Shirt_4_13/Shirt_5_13/Shirt_6_13/Shirt_7_13/Shirt_8_13/Shirt_9_13/Shirt_9_13_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14/Shirt_2_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14/Shirt_2_14/Shirt_3_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14/Shirt_2_14/Shirt_3_14/Shirt_4_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14/Shirt_2_14/Shirt_3_14/Shirt_4_14/Shirt_5_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14/Shirt_2_14/Shirt_3_14/Shirt_4_14/Shirt_5_14/Shirt_6_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14/Shirt_2_14/Shirt_3_14/Shirt_4_14/Shirt_5_14/Shirt_6_14/Shirt_7_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14/Shirt_2_14/Shirt_3_14/Shirt_4_14/Shirt_5_14/Shirt_6_14/Shirt_7_14/Shirt_8_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14/Shirt_2_14/Shirt_3_14/Shirt_4_14/Shirt_5_14/Shirt_6_14/Shirt_7_14/Shirt_8_14/Shirt_9_14
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/Shirt_0_14/Shirt_1_14/Shirt_2_14/Shirt_3_14/Shirt_4_14/Shirt_5_14/Shirt_6_14/Shirt_7_14/Shirt_8_14/Shirt_9_14/Shirt_9_14_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/_shadow_ShoulderC_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/_shadow_ShoulderC_L/_shadow_ShoulderC_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/_shadow_ShoulderC_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/_shadow_ShoulderC_R/_shadow_ShoulderC_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/_shadow_Eye_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/_shadow_Eye_L/_shadow_Eye_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/_shadow_Eye_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/_shadow_Eye_R/_shadow_Eye_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eye_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eye_L/EyeReturn_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eye_L/EyeReturn_L/EyeReturn_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eye_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eye_R/EyeReturn_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eye_R/EyeReturn_R/EyeReturn_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eyeglasses
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eyeglasses/Eyeglasses_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eyes
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eyes/_dummy_Eye_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eyes/_dummy_Eye_L/_dummy_Eye_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eyes/_dummy_Eye_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Eyes/_dummy_Eye_R/_dummy_Eye_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/FrontHair1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/FrontHair1/FrontHair1_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/FrontHair1/FrontHair1_2/FrontHair1_2_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/FrontHair2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/FrontHair2/FrontHair2_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/FrontHair2/FrontHair2_2/FrontHair2_2_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/FrontHair3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/FrontHair3/FrontHair3_2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/FrontHair3/FrontHair3_2/FrontHair3_2_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L
+        weight: 1
+      - path: "TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair2\u679D_L"
+        weight: 1
+      - path: "TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair2\u679D_L/Hair2\u679D_L_end"
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair3_L/Hair4_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair3_L/Hair4_L/Hair5_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair3_L/Hair4_L/Hair5_L/Hair6_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair3_L/Hair4_L/Hair5_L/Hair6_L/Hair7_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair3_L/Hair4_L/Hair5_L/Hair6_L/Hair7_L/Hair8_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair3_L/Hair4_L/Hair5_L/Hair6_L/Hair7_L/Hair8_L/Hair8Tip_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Hair1_L/Hair2_L/Hair3_L/Hair4_L/Hair5_L/Hair6_L/Hair7_L/Hair8_L/Hair8Tip_L/Hair8Tip_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/HeadTip
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/HeadTip/HeadTip_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Sideburn1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Sideburn1_L/Sideburn2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Sideburn1_L/Sideburn2_L/Sideburn2_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Sideburn1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Sideburn1_R/Sideburn2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Sideburn1_R/Sideburn2_R/Sideburn2_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Tongue1
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Tongue1/Tongue2
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Tongue1/Tongue2/Tongue3
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/Neck/Head/Tongue1/Tongue2/Tongue3/Tongue3_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/_dummy_ShoulderC_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/_dummy_ShoulderC_L/_dummy_ShoulderC_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/_shadow_ArmTwist1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/_shadow_ArmTwist1_L/_shadow_ArmTwist1_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/_shadow_ArmTwist2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/_shadow_ArmTwist2_L/_shadow_ArmTwist2_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/_shadow_ArmTwist3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/_shadow_ArmTwist3_L/_shadow_ArmTwist3_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist1_L/ArmTwist1_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist2_L/ArmTwist2_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist3_L/ArmTwist3_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/_dummy_ArmTwist1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/_dummy_ArmTwist1_L/_dummy_ArmTwist1_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/_dummy_ArmTwist2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/_dummy_ArmTwist2_L/_dummy_ArmTwist2_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/_dummy_ArmTwist3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/_dummy_ArmTwist3_L/_dummy_ArmTwist3_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/_shadow_HandTwist1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/_shadow_HandTwist1_L/_shadow_HandTwist1_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/_shadow_HandTwist2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/_shadow_HandTwist2_L/_shadow_HandTwist2_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/_shadow_HandTwist3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/_shadow_HandTwist3_L/_shadow_HandTwist3_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist1_L/HandTwist1_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist2_L/HandTwist2_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist3_L/HandTwist3_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/_dummy_HandTwist1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/_dummy_HandTwist1_L/_dummy_HandTwist1_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/_dummy_HandTwist2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/_dummy_HandTwist2_L/_dummy_HandTwist2_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/_dummy_HandTwist3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/_dummy_HandTwist3_L/_dummy_HandTwist3_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/Dummy_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/Dummy_L/Dummy_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/HandTip_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/HandTip_L/HandTip_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/IndexFinger1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/IndexFinger1_L/IndexFinger2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFingerTip_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFingerTip_L/IndexFingerTip_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/LittleFinger1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/LittleFinger1_L/LittleFinger2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFingerTip_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFingerTip_L/LittleFingerTip_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/MiddleFinger1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFingerTip_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFingerTip_L/MiddleFingerTip_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/RingFinger1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/RingFinger1_L/RingFinger2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/RingFinger1_L/RingFinger2_L/RingFinger3_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFingerTip_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFingerTip_L/RingFingerTip_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/Thumb0_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/Thumb0_L/Thumb1_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/Thumb0_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/Thumb0_L/Thumb1_L/Thumb2_L/ThumbTip_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_L/Shoulder_L/ShoulderC_L/Arm_L/ArmTwist_L/Elbow_L/HandTwist_L/Wrist_L/Thumb0_L/Thumb1_L/Thumb2_L/ThumbTip_L/ThumbTip_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/_dummy_ShoulderC_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/_dummy_ShoulderC_R/_dummy_ShoulderC_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/_shadow_ArmTwist1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/_shadow_ArmTwist1_R/_shadow_ArmTwist1_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/_shadow_ArmTwist2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/_shadow_ArmTwist2_R/_shadow_ArmTwist2_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/_shadow_ArmTwist3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/_shadow_ArmTwist3_R/_shadow_ArmTwist3_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist1_R/ArmTwist1_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist2_R/ArmTwist2_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist3_R/ArmTwist3_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/_dummy_ArmTwist1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/_dummy_ArmTwist1_R/_dummy_ArmTwist1_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/_dummy_ArmTwist2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/_dummy_ArmTwist2_R/_dummy_ArmTwist2_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/_dummy_ArmTwist3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/_dummy_ArmTwist3_R/_dummy_ArmTwist3_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/_shadow_HandTwist1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/_shadow_HandTwist1_R/_shadow_HandTwist1_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/_shadow_HandTwist2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/_shadow_HandTwist2_R/_shadow_HandTwist2_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/_shadow_HandTwist3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/_shadow_HandTwist3_R/_shadow_HandTwist3_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist1_R/HandTwist1_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist2_R/HandTwist2_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist3_R/HandTwist3_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/_dummy_HandTwist1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/_dummy_HandTwist1_R/_dummy_HandTwist1_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/_dummy_HandTwist2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/_dummy_HandTwist2_R/_dummy_HandTwist2_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/_dummy_HandTwist3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/_dummy_HandTwist3_R/_dummy_HandTwist3_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/Dummy_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/Dummy_R/Dummy_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/HandTip_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/HandTip_R/HandTip_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/IndexFinger1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/IndexFinger1_R/IndexFinger2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFingerTip_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFingerTip_R/IndexFingerTip_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/LittleFinger1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/LittleFinger1_R/LittleFinger2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFingerTip_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFingerTip_R/LittleFingerTip_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/MiddleFinger1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFingerTip_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFingerTip_R/MiddleFingerTip_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/RingFinger1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/RingFinger1_R/RingFinger2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/RingFinger1_R/RingFinger2_R/RingFinger3_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFingerTip_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFingerTip_R/RingFingerTip_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/Thumb0_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/Thumb0_R/Thumb1_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/Thumb0_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/Thumb0_R/Thumb1_R/Thumb2_R/ThumbTip_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/Center/Groove/Waist/UpperBody/UpperBody2/ShoulderP_R/Shoulder_R/ShoulderC_R/Arm_R/ArmTwist_R/Elbow_R/HandTwist_R/Wrist_R/Thumb0_R/Thumb1_R/Thumb2_R/ThumbTip_R/ThumbTip_R_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/LegIKParent_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/LegIKParent_L/LegIK_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/LegIKParent_L/LegIK_L/ToeTipIK_L
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/LegIKParent_L/LegIK_L/ToeTipIK_L/ToeTipIK_L_end
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/LegIKParent_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/LegIKParent_R/LegIK_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/LegIKParent_R/LegIK_R/ToeTipIK_R
+        weight: 1
+      - path: TDA Black Neru/TDA Black Neru_arm/ParentNode/LegIKParent_R/LegIK_R/ToeTipIK_R/ToeTipIK_R_end
+        weight: 1
+      - path: TDA Black Neru_mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
